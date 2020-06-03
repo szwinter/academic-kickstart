@@ -21,7 +21,7 @@ social:
     icon_pack: fab
     link: https://github.com/szwinter
   - link: https://www.linkedin.com/in/steven-winter-3810a0109/
-    icon_pack: fas
+    icon_pack: ai
     icon: linkedin
 education:
   courses:
