@@ -1,24 +1,28 @@
 ---
 organizations:
   - name: Duke University
-    url: ""
+    url: https://duke.edu/
 superuser: true
 authors:
   - admin
 title: Steven Winter
 role: Research Student
-bio: "Short: lorem ipsum."
+bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Bayesian statistics
+  - Interpretable models
+  - Applications of statistics to neuroscience
+  - Statistics pedagogy for scientists
 social:
   - icon: envelope
     icon_pack: fas
-    link: "#contact"
+    link: mailto:steven.winter@duke.edu
   - icon: github
     icon_pack: fab
     link: https://github.com/szwinter
+  - link: https://www.linkedin.com/in/steven-winter-3810a0109/
+    icon_pack: fas
+    icon: linkedin
 education:
   courses:
     - course: MSc in Statistical Science
