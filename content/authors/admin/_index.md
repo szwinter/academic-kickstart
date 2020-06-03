@@ -27,7 +27,7 @@ education:
   courses:
     - course: MSc in Statistical Science
       institution: Duke University
-      year: 2020
+      year: 2021
     - course: BSc in Honours Mathematics
       institution: University of Alberta
       year: 2019
