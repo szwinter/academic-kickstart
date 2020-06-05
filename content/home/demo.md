@@ -22,7 +22,7 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "white"
+  color = "white"
   
   # Text color (true=light or false=dark).
   text_color_light = false
