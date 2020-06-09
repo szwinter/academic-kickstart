@@ -42,4 +42,4 @@ subtitle = ""
 To be written:
 * Mondrian mixing
 * OODA, tree data, etc.
-* G-Bayes. Applications to model uncertainty where marginal likelihood is intractible. Applications to factor models.
+* G-Bayes. Applications to model uncertainty where marginal likelihood is intractible. .
