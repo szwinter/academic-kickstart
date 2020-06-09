@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 24  # Order that this section will appear.
 
-title = "Research"
+title = "Primary Research"
 subtitle = ""
 
 [design]
@@ -39,4 +39,6 @@ subtitle = ""
  css_class = ""
 +++
 
-To be written.
+Mental health presents unique clinical challenges: the correspondence between afflictions and symptoms is frustratingly inconsistent. A fixed mental illness or mood disorder is often associated with a wide variety of symptoms, and typically only a small subset of these manifest in any one patient. This lack of identifiability hampers treatment.
+
+Resolving the identifiability problem is a long term goal of my research. Short term, I am working under David Dunson to develop novel methods for relating multi-resolution connectome data to expressed human behaviour. Connectome data is a type of network data that summarizes connections between groups of neurons on the first few layers of the cortical surface; multi-resolution connectome data accommodates networks with different numbers of nodes, allowing for more accurate, robust analysis. More details available upon request!
