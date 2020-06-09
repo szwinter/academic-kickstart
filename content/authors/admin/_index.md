@@ -36,4 +36,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. [http://example.org](http://example.org/)
+I'm currently pursing a Master's in Statistical Science at Duke University under the guidance of [David Dunson](https://stat.duke.edu/people/david-b-dunson). My primary research focuses on developing novel statistical methods to link brain imagine data to expressed traits, such as linguistic ability or fluid intelligence. Off campus, I split my free time between travelling, kickboxing, and reading fiction.
