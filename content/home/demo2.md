@@ -39,4 +39,7 @@ subtitle = ""
  css_class = ""
 +++
 
-To be written.
+In addition, I am also exploring
+* methods for uncertainty quantification in dimensionality reduction, with a focus on factor analysis, 
+* applications of machine learning to faithfully compress neuroimaging data, and
+* generalized Bayesian methods for model averaging.
