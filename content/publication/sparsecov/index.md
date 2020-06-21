@@ -20,7 +20,7 @@ publication_types: ["3"]
 # publication: place
 # publication_short: place
 
-abstract: Spatial discretizations of the 3D Navier Stokes equations have provided valuable intuition for understanding plausible conditions under which solutions to the Navier-Stokes equations might i) exist and ii) behave well. We consider a set of discretizations indexed by a family of hyper-parameters $(\alpha, \beta, \nu)\in[0,1]^3$. Our contribution is an improvement upon the work by Jeong and Li (2015); in particular, we extend the class of known solutions exhibiting finite-time blow-up to hyperparameter values further from one of the corners.
+abstract: Linear regression for high dimensional data is an inherently challenging problem with many solutions generally involving some structural assumption on the model such as lasso’s sparsity in the parameter vector. Considering the random design setting, we apply a different sparsity assumption: sparsity in the covariance or precision matrix of the predictors. Thus, we propose a new regression estimator by first applying methods for estimating a sparse covariance or precision matrix. This matrix is then incorporated into the estimator for the regression parameters. We mainly compare this methodology against the classic ridge or Tikhonov regularization method.
 
 tags:
 - Source Themes
