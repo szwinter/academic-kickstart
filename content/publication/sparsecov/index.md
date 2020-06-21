@@ -20,7 +20,7 @@ publication_types: ["3"]
 # publication: place
 # publication_short: place
 
-abstract: Linear regression for high dimensional data is an inherently challenging problem with many solutions generally involving some structural assumption on the model such as lasso’s sparsity in the parameter vector. 
+abstract: Linear regression for high dimensional data is an inherently challenging problem with many solutions generally involving some structural assumption on the model such as lasso’s sparsity in the parameter vector. Considering the random design setting, we apply a different sparsity assumption: sparsity in the covariance or precision matrix of the predictors. Thus, we propose a new regression estimator by first applying methods for estimating a sparse covariance or precision matrix. This matrix is then incorporated into the estimator for the regression parameters.
 
 tags:
 - Source Themes
