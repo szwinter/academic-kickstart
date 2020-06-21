@@ -20,7 +20,7 @@ publication_types: ["3"]
 # publication: place
 # publication_short: place
 
-abstract: none
+abstract: Spatial discretizations of the 3D Navier Stokes equations have provided valuable intuition for understanding plausible conditions under which solutions to the Navier-Stokes equations might i) exist and ii) behave well. We consider a set of discretizations indexed by a family of hyper-parameters $(\alpha, \beta, \nu)\in[0,1]^3$. Our contribution is an improvement upon the work by Jeong and Li (2015); in particular, we extend the class of known solutions exhibiting finite-time blow-up to hyperparameter values further from one of the corners.
 
 tags:
 - Source Themes
