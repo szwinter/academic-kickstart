@@ -1,11 +1,9 @@
 ---
-title: "Fixed-Horizon Temporal Difference Methods for Stable Reinforcement Learning"
+title: "Title!"
 authors:
-- Kris de Asis
+- A1
 - admin
-- Silviu Pitis
-- Richard S. Sutton
-- Daniel Graves
+- A2
 date: "2020-02-07"
 doi: ""
 
@@ -19,10 +17,10 @@ publishDate: "2020-02-07"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In AAAI 2020
-publication_short: In AAAI 2020
+publication: place
+publication_short: place
 
-abstract: We explore fixed-horizon temporal difference (TD) methods, reinforcement learning algorithms for a new kind of value function that predicts the sum of rewards over a fixed number of future time steps. To learn the value function for horizon h, these algorithms bootstrap from the value function for horizon h−1, or some shorter horizon. Because no value function bootstraps from itself, fixed-horizon methods are immune to the stability problems that plague other off-policy TD methods using function approximation (also known as "the deadly triad"). Although fixed-horizon methods require the storage of additional value functions, this gives the agent additional predictive power, while the added complexity can be substantially reduced via parallel updates, shared weights, and n-step bootstrapping. We show how to use fixed-horizon value functions to solve reinforcement learning problems competitively with methods such as Q-learning that learn conventional value functions. We also prove convergence of fixed-horizon temporal difference methods with linear and general function approximation. Taken together, our results establish fixed-horizon TD methods as a viable new way of avoiding the stability problems of the deadly triad. 
+abstract: multi line abstract right here
 
 tags:
 - Source Themes
@@ -31,7 +29,7 @@ featured: true
 links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: https://arxiv.org/abs/1909.03906
+# url_pdf: https://arxiv.org/abs/1909.03906
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
@@ -43,7 +41,7 @@ url_pdf: https://arxiv.org/abs/1909.03906
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Learning curve of FH Q-learning vs. DQN'
+  caption: 'caption'
   focal_point: ""
   preview_only: false
 
@@ -52,8 +50,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- internal-project
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
