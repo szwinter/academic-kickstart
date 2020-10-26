@@ -26,7 +26,7 @@ tags:
 - Source Themes
 featured: true
 
-links: https://arxiv.org/abs/2010.02332
+links:
 # - name: Custom Link
 #   url: http://example.org
 # url_pdf: https://arxiv.org/abs/1909.03906
