@@ -1,9 +1,9 @@
 ---
-title: "Sparse Covariance and Precision Random Design Regression"
+title: "Multi-scale graph principal component analysis for connectomics"
 authors:
-- Xi Fang
 - admin
-- Adam Kashlak
+- Zhengwu Zhang
+- David Dunson
 date: "2020-05-20"
 doi: ""
 
@@ -20,15 +20,13 @@ publication_types: ["3"]
 # publication: place
 # publication_short: place
 
-abstract: Linear regression for high dimensional data is an inherently challenging problem with many solutions generally involving some structural assumption on the model such as lasso’s sparsity in the parameter vector. Considering the random design setting, we apply a different sparsity assumption - sparsity in the covariance or precision matrix of the predictors. Thus, we propose a new regression estimator by first applying methods for estimating a sparse covariance or precision matrix. This matrix is then incorporated into the estimator for the regression parameters.
-
- We mainly compare this methodology against the classic ridge or Tikhonov regularization method.
+abstract: In brain connectomics, the cortical surface is parcellated into different regions of interest (ROIs) prior to statistical analysis.  The brain connectome for each individual can then be represented as a graph, with the nodes corresponding to ROIs and edges to connections between ROIs.  Such a graph can be summarized as an adjacency matrix, with each cell containing the strength of connection between a pair of ROIs. These matrices are symmetric with the diagonal elements corresponding to self-connections typically excluded.  A major disadvantage of such representations of the connectome is their sensitivity to the chosen ROIs, including critically the number of ROIs and hence the scale of the graph.  As the scale becomes finer and more ROIs are used, graphs become increasingly sparse.  Clearly, the results of downstream statistical analyses can be highly dependent on the chosen parcellation.  To solve this problem, we propose a multi-scale graph factorization, which links together scale-specific factorizations through a common set of individual-specific scores.  These scores summarize an individual's brain structure combining information across measurement scales.  We obtain a simple and efficient algorithm for implementation, and illustrate substantial advantages over single scale approaches in simulations and analyses of the Human Connectome Project dataset.  
 
 tags:
 - Source Themes
 featured: true
 
-links:
+links: https://arxiv.org/abs/2010.02332
 # - name: Custom Link
 #   url: http://example.org
 # url_pdf: https://arxiv.org/abs/1909.03906
