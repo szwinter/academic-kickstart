@@ -36,4 +36,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
-I'm currently pursing a Master's in Statistical Science at Duke University under the guidance of [David Dunson](https://stat.duke.edu/people/david-b-dunson). My primary research focuses on developing novel statistical methods to link brain imagine data to expressed traits, such as linguistic ability or fluid intelligence. Off campus, I split my free time between travelling, kickboxing, and reading fiction.
+I'm currently pursing a Master's in Statistical Science at Duke University under the guidance of [David Dunson](https://stat.duke.edu/people/david-b-dunson). My primary research focuses on developing novel statistical methods to link brain imaging data to expressed traits, such as linguistic ability or fluid intelligence. Off campus, I split my free time between travelling, kickboxing, and reading fiction.
