@@ -5,7 +5,7 @@
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 24  # Order that this section will appear.
 
 title = "Primary Research"
@@ -39,6 +39,4 @@ subtitle = ""
  css_class = ""
 +++
 
-Mental health presents unique clinical challenges: the correspondence between afflictions and symptoms is frustratingly inconsistent. A fixed mental illness or mood disorder is often associated with a wide variety of symptoms, and typically only a small subset of these manifest in any one patient. This lack of identifiability hampers treatment.
-
-Resolving the identifiability problem is a long term goal of my research. Short term, I am developing novel methods for relating multi-resolution connectome data to expressed human behaviour. Connectome data is a type of network data that summarizes connections between groups of neurons on the first few layers of the cortical surface; multi-resolution connectome data accommodates networks with different numbers of nodes, allowing for more accurate, robust analysis.
+It is often difficult to specify a realistic likelihood for real-world data. Generalized Bayesian methods replace the negative log-likelihood with a loss function, defining a computationally tractable pseudo-posterior that can be used in place of the original posterior. Unfortunately, generalized posteriors may be seriously miscalibrated, resulting in dramatic over/underrepresentation of uncertainty. We are extending generalized posteriors to a larger class of distributions which can be accurately calibrated in a wide array of applications, including those with manifold-valued parameters. Motivating problems include principal component regression, multi-scale time series analysis, and hierarchical clustering.
