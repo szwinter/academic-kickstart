@@ -6,13 +6,12 @@ superuser: true
 authors:
   - admin
 title: Steven Winter
-role: Research Student
+role: PhD Student
 bio: ""
 interests:
-  - Bayesian statistics
-  - Interpretable models
-  - Applications of statistics to neuroscience
-  - Statistics pedagogy for scientists
+  - Nonparametrics
+  - Network modelling
+  - Generalized Bayes
 social:
   - icon: envelope
     icon_pack: fas
@@ -25,6 +24,9 @@ social:
     icon: linkedin
 education:
   courses:
+    - course: PhD in Statistical Science
+      institution: Duke University
+      year: 2025
     - course: MSc in Statistical Science
       institution: Duke University
       year: 2021
@@ -36,4 +38,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
-I'm currently pursing a Master's in Statistical Science at Duke University under the guidance of [David Dunson](https://stat.duke.edu/people/david-b-dunson). My primary research focuses on developing novel statistical methods to link brain imaging data to expressed traits, such as linguistic ability or fluid intelligence. Off campus, I split my free time between travelling, kickboxing, and reading fiction.
+I am a PhD student in the Statistical Science Department at Duke University, advised by [David Dunson]([https://stat.duke.edu/people/david-b-dunson](https://www.daviddunson.com/)). My research focuses on developing methods for analyzing complex real-world data that faithfully represent uncertainty with minimal assumptions. We are particularly motivated by applications in connectomics and multi-omics.
