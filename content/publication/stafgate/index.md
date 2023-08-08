@@ -1,14 +1,14 @@
 ---
-title: "Sparse Covariance and Precision Random Design Regression"
+title: "Interpretable AI for relating brain structural and functional connectomes"
 authors:
-- Xi Fang
+- Haoming Yang
 - admin
-- Adam Kashlak
-date: "2020-05-20"
+- David Dunson
+date: "2022-10-10"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-05-20"
+publishDate: "2022-10-10"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -20,9 +20,7 @@ publication_types: ["3"]
 # publication: place
 # publication_short: place
 
-abstract: Linear regression for high dimensional data is an inherently challenging problem with many solutions generally involving some structural assumption on the model such as lasso’s sparsity in the parameter vector. Considering the random design setting, we apply a different sparsity assumption - sparsity in the covariance or precision matrix of the predictors. Thus, we propose a new regression estimator by first applying methods for estimating a sparse covariance or precision matrix. This matrix is then incorporated into the estimator for the regression parameters.
-
- We mainly compare this methodology against the classic ridge or Tikhonov regularization method.
+abstract: One of the central problems in neuroscience is understanding how brain structure relates to function. Naively one can relate the direct connections of white matter fiber tracts between brain regions of interest (ROIs) to the increased co-activation in the same pair of ROIs, but the link between structural and functional connectomes (SCs and FCs) has proven to be much more complex. To learn a realistic generative model characterizing population variation in SCs, FCs, and the SC-FC coupling, we develop a graph auto-encoder that we refer to as Staf-GATE. We trained Staf-GATE with data from the Human Connectome Project (HCP) and show state-of-the-art performance in predicting FC and joint generation of SC and FC. In addition, as a crucial component of the proposed approach, we provide a masking-based algorithm to extract interpretable inference about SC-FC coupling. Our interpretation methods identified important cross-hemisphere and right-hemisphere SC subnetworks for FC coupling and relating SC and FC with cognitive scores and gender.
 
 tags:
 - Source Themes
