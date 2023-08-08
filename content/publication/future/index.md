@@ -1,14 +1,16 @@
 ---
-title: "Sparse Covariance and Precision Random Design Regression"
+title: "Machine Learning and the Future of Bayesian Computation"
 authors:
-- Xi Fang
 - admin
-- Adam Kashlak
-date: "2020-05-20"
+- Trevor Campbell
+- Lizhen Lin
+- Sanvesh Srivastava
+- David B. Dunson
+date: "2023-04-21"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-05-20"
+publishDate: "2023-04-21"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -20,9 +22,7 @@ publication_types: ["3"]
 # publication: place
 # publication_short: place
 
-abstract: Linear regression for high dimensional data is an inherently challenging problem with many solutions generally involving some structural assumption on the model such as lasso’s sparsity in the parameter vector. Considering the random design setting, we apply a different sparsity assumption - sparsity in the covariance or precision matrix of the predictors. Thus, we propose a new regression estimator by first applying methods for estimating a sparse covariance or precision matrix. This matrix is then incorporated into the estimator for the regression parameters.
-
- We mainly compare this methodology against the classic ridge or Tikhonov regularization method.
+abstract: Bayesian models are a powerful tool for studying complex data, allowing the analyst to encode rich hierarchical dependencies and leverage prior information. Most importantly, they facilitate a complete characterization of uncertainty through the posterior distribution. Practical posterior computation is commonly performed via MCMC, which can be computationally infeasible for high dimensional models with many observations. In this article we discuss the potential to improve posterior computation using ideas from machine learning. Concrete future directions are explored in vignettes on normalizing flows, Bayesian coresets, distributed Bayesian inference, and variational inference.
 
 tags:
 - Source Themes
