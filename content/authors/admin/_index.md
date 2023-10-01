@@ -38,4 +38,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
-I am a PhD student in the Statistical Science Department at Duke University, advised by [David Dunson]([https://stat.duke.edu/people/david-b-dunson](https://www.daviddunson.com/)). My research focuses on developing methods for analyzing complex real-world data that faithfully represent uncertainty with minimal assumptions. We are particularly motivated by applications in connectomics and multi-omics.
+I am a PhD student in the Statistical Science Department at Duke University advised by David Dunson. My research focuses on developing methods for analyzing complex real-world data that faithfully represent uncertainty with minimal assumptions. I am particularly motivated by applications in connectomics and multi-omics.
